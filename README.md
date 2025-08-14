@@ -1,7 +1,7 @@
 # Better Cutter, Wood in Stonecutter
-**Work on Minecraft Version: 1.13.X-1.14.X**
+**Work on Minecraft Version: 1.13.X-1.16.1**
 
-**Version soon coming: 1.15.X**
+**Version soon coming: 1.16.2 - 1.16.5**
 
 **Download: Modrinth**
 
@@ -49,7 +49,7 @@ Run /reload or restart your world.
 
 ## FAQ
 Q: Do all vanilla wood recipes work in the stonecutter?\
-A: Yes! All 6 wood types (oak, spruce, jungle, birch, dark oak, acacia) are supported.
+A: Yes! All 8 wood types (oak, spruce, jungle, birch, dark oak, acacia, crimson, warped) are supported.
 
 Q: Can I disable certain recipes?\
 A: Yes! Edit the config file to toggle specific recipes or yields.
