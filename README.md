@@ -1,7 +1,7 @@
 # Better Cutter, Wood in Stonecutter
-**Work on Minecraft Version: 1.13.X-1.14.X**
+**Work on Minecraft Version: 1.13.X-1.16.1**
 
-**Version soon coming: 1.15.X**
+**Version soon coming: 1.16.2 - 1.16.5**
 
 **Download: Modrinth**
 
