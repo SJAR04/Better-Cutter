@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:jungle_log"
-    },
-    "result": { "id": "minecraft:jungle_stairs",
-    "count": 4
-}}
